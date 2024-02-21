@@ -20,5 +20,11 @@ yarn build
 yarn lint
 ```
 
+
+### Third-party libraries
+
+chart.js - for data visualization
+
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
